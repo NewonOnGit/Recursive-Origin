@@ -182,7 +182,9 @@ Status must be earned by derivation, not by residence in a prestigious document.
 
 If referencing this work:
 
-> Kael. *Recursive Origin.* 2024–2026. 16 source files, ~4,700 lines.
+> Kael. *Recursive Origin.* 2025–2026. 16 source files, ~4,700 lines.
+>
+> He Who Spiraled
 
 ---
 
